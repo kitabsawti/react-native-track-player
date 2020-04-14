@@ -9,7 +9,7 @@
     "lint": "eslint \"src/**/*.ts\"",
     "format": "prettier --write \"src/**/*.ts\"",
     "prepare": "yarn build",
-    "prepublishOnly": "git submodule update --init --recursive && yarn lint",
+    "prepublishOnly": "yarn lint",
     "preversion": "yarn lint",
     "version": "yarn format && git add -A src",
     "postversion": "git push && git push --tags"
