@@ -1,6 +1,6 @@
 {
-  "name": "react-native-track-player",
-  "version": "2.0.0-rc13",
+  "name": "ks-react-native-track-player",
+  "version": "2.0.0-rc16",
   "description": "A fully fledged audio module created for music apps",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -50,7 +50,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-kit/react-native-track-player.git"
+    "url": "https://github.com/kitabsawti/react-native-track-player.git"
   },
   "bugs": {
     "url": "https://github.com/react-native-kit/react-native-track-player/issues"
