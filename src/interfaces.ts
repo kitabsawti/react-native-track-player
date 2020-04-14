@@ -158,7 +158,7 @@ export enum State {
   Connecting = TrackPlayer.STATE_CONNECTING,
 }
 
-interface TrackMetadataBase {
+Export interface TrackMetadataBase {
   title?: string
   album?: string
   artist?: string
